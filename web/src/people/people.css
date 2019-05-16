@@ -1,0 +1,23 @@
+.people-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.people-row {
+    flex-direction: row;
+    text-align: center;
+}
+
+.people-col {
+    flex-direction: column;
+}
+
+a, th.sort-field {
+    cursor: pointer;
+    text-decoration: underline !important;
+}
+
+.textbox {
+    width: 300px;
+}
