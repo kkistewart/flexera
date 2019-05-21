@@ -1,0 +1,9 @@
+D:\Flexera\codetest\codetest.ServiceModel\bin\Debug\netstandard2.0\codetest.ServiceModel.deps.json
+D:\Flexera\codetest\codetest.ServiceModel\bin\Debug\netstandard2.0\codetest.ServiceModel.dll
+D:\Flexera\codetest\codetest.ServiceModel\bin\Debug\netstandard2.0\codetest.ServiceModel.pdb
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.AssemblyInfoInputs.cache
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.AssemblyInfo.cs
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.dll
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.pdb
+D:\Flexera\codetest\codetest.ServiceModel\obj\Debug\netstandard2.0\codetest.ServiceModel.csprojAssemblyReference.cache

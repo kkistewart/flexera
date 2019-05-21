@@ -1,0 +1,4 @@
+D:\Flexera\codetest\codetest.Tests\obj\Debug\netcoreapp2.1\codetest.Tests.csprojAssemblyReference.cache
+D:\Flexera\codetest\codetest.Tests\obj\Debug\netcoreapp2.1\codetest.Tests.csproj.CoreCompileInputs.cache
+D:\Flexera\codetest\codetest.Tests\obj\Debug\netcoreapp2.1\codetest.Tests.AssemblyInfoInputs.cache
+D:\Flexera\codetest\codetest.Tests\obj\Debug\netcoreapp2.1\codetest.Tests.AssemblyInfo.cs
